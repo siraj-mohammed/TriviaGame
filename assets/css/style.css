@@ -1,0 +1,26 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url("../images/diagmonds.png");
+    text-align: center;
+}
+
+#banner img{
+    width: 100%;
+    height: auto;
+}
+
+.btn{
+    font-size: 20px;
+}
+
+.btn:hover{
+    border-color: red;
+}
+
+.options{
+
+}
+
+.options:hover{
+    
+}
