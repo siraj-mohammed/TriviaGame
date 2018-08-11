@@ -2,11 +2,17 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: url("../images/diagmonds.png");
     text-align: center;
+    color: white;
 }
 
 #banner img{
     width: 100%;
     height: auto;
+}
+
+p{
+    margin: 15px;
+    font-size: 22px;
 }
 
 .btn{
@@ -18,9 +24,17 @@ body{
 }
 
 .options{
-
+    font-size: 22px;
+    width: 300px;
+    margin: auto;
 }
 
 .options:hover{
-    
+    background-color: red;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#animation{
+    width: 300px;
 }

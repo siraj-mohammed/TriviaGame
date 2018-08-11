@@ -191,5 +191,6 @@ $("#btnRestart").on("click", function(){
 });
 
 $("#game-results").hide();
+$("#game-answer").hide();
 $("#splash").show();
 
